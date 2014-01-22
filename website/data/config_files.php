@@ -28,9 +28,9 @@
 	// Contains paths to files and folders shared by the 
 	//  php scripts on the server.	
 	// database interfaces
-	define('DB_SERVER', 'localhost', false);
-	define('DB_USER', 'db_test', false);
-	define('DB_PASS', 'WeCantDecide2', false);
+	define('DB_SERVER', 'localhost:8889', false);
+	define('DB_USER', 'root', false);
+	define('DB_PASS', 'root', false);
 	define('DB_DATABASE_NAME', 'wlux_services', false);
 
 	define('DB_TABLE_DEBUG', 'debug', false);

@@ -18,6 +18,9 @@ CREATE DATABASE IF NOT EXISTS wlux_services
     DEFAULT CHARACTER SET utf8
     DEFAULT COLLATE utf8_unicode_ci;
 
+
+USE wlux_services;
+
 -- --------------------------------------------------------
 
 --
